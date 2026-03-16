@@ -55,7 +55,7 @@ For each dataset:
 1. Binned by offset file containing bin offset from the chosen mode, bin center, delta sum value aling with area-under-curve(AUC)
 2. Normalized with offset file with freq of repeats normalised by total number of reads per sample, average, sd, sem, delta and bin offset values
 3. Stats file with expansion and contraction mean, AUC, overall mean and bias ratio
-4. Kolmogorov–Smirnov test results
+4. Kolmogorov–Smirnov (KS) test results
 5. delta plot as png
 
 
