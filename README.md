@@ -64,7 +64,7 @@ For each dataset:
 **Windows**
 
 1. Download [Docker Desktop for Windows](https://docs.docker.com/desktop/install/windows-install/), install it, and ensure it is running.
-2. Download the Repeat Detector Docker image from [Zenodo]((https://zenodo.org/records/18863035/files/repeat-detector.tar?download=1))
+2. Download the Repeat Detector Docker image from[Zenodo](https://zenodo.org/records/18863035/files/repeat-detector.tar?download=1)
 3. Download GUI  [Zenodo](https://zenodo.org/records/18863035/files/GUI_publish_v2_Mar2026_Win.zip?download=1)
 4. Copy the GUI files and run them locally from your computer rather than from networked folders.
 5. Locate, unzip 'GUI_publish_v2_Mar2026_Win.exe' and right-click and **Run as administrator**
@@ -87,7 +87,7 @@ For each dataset:
 **macOS**
 
 1. Download Docker Desktop for macOS from [Docker Desktop for Mac](https://docs.docker.com/desktop/install/mac-install/), install it, and ensure it is running.
-2. Download the Repeat Detector Docker image from [Zenodo]((https://zenodo.org/records/18863035/files/repeat-detector.tar?download=1))
+2. Download the Repeat Detector Docker image from [Zenodo](https://zenodo.org/records/18863035/files/repeat-detector.tar?download=1)
 3. Dowload GUI [Zenodo](https://zenodo.org/records/18863035/files/GUI_publish_v1_Feb2026_mac.zip?download=1)
 4. Copy the GUI files and run them locally from your computer rather than from networked folders.
 5. Locate, unzip and double-click 'GUI_publish_v1_Feb2026_mac'.
