@@ -67,7 +67,7 @@ For each dataset:
 2. Download the Repeat Detector Docker image from[Zenodo](https://zenodo.org/records/18863035/files/repeat-detector.tar?download=1)
 3. Download GUI  [Zenodo](https://zenodo.org/records/18863035/files/GUI_publish_v2_Mar2026_Win.zip?download=1)
 4. Copy the GUI files and run them locally from your computer rather than from networked folders.
-5. Locate, unzip 'GUI_publish_v2_Mar2026_Win.exe' and right-click and **Run as administrator**
+5. Locate, unzip **GUI_publish_v2_Mar2026_Win.exe** and right-click and **Run as administrator**
 6. If Windows shows a security warning, click **More info**, then click **Run anyway**.
 7. When the app opens, browse and locate the downloaded `repeat-detector.tar` file
 8. Next, browse and locate the FASTA file. If you have FASTQ/FASTQ.gz files, use `seqkit fq2fa` to convert them to FASTA format.
@@ -90,7 +90,7 @@ For each dataset:
 2. Download the Repeat Detector Docker image from [Zenodo](https://zenodo.org/records/18863035/files/repeat-detector.tar?download=1)
 3. Dowload GUI [Zenodo](https://zenodo.org/records/18863035/files/GUI_publish_v1_Feb2026_mac.zip?download=1)
 4. Copy the GUI files and run them locally from your computer rather than from networked folders.
-5. Locate, unzip and double-click 'GUI_publish_v1_Feb2026_mac'.
+5. Locate, unzip and double-click **GUI_publish_v1_Feb2026_mac**.
 6. If macOS shows a security warning, go to System Preferences > Security & Privacy, and allow the app to run by clicking **Open anyway**
 7. It might take a few minutes to open, if it does not open with first double clicking, repeat the clicking and wait
 8. When the app opens, browse and locate the downloaded `repeat-detector.tar` file
