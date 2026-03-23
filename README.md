@@ -1,4 +1,4 @@
-Single Clone based Instability Assay (SCIA) GUI
+**Single Clone based Instability Assay (SCIA) GUI**
 
 SCIA GUI is a cross-platform graphical application for analyzing repeat instability from long read sequencing data. 
 It integrates the deterministic Repeat Detector (RD) algorithm with downstream instability quantification, delta distribution analysis, statistical comparison and visualization.
