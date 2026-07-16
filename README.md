@@ -88,7 +88,7 @@ For each dataset:
 
 1. Download Docker Desktop for macOS from [Docker Desktop for Mac](https://docs.docker.com/desktop/install/mac-install/), install it, and ensure it is running.
 2. Download the Repeat Detector Docker image from [Zenodo](https://zenodo.org/records/18863035/files/repeat-detector.tar?download=1)
-3. Dowload GUI [Zenodo][https://zenodo.org/records/21377283/files/GUI_publish_v2_Jul2026_mac.zip?download=1)](https://zenodo.org/records/21377283/files/GUI_publish_v2_Jul2026_mac.zip?download=1]
+3. Dowload GUI [Zenodo][https://zenodo.org/records/21377283/files/GUI_publish_v2_Jul2026_mac.zip?download=1)]
 4. Copy the GUI files and run them locally from your computer rather than from networked folders.
 5. Locate, unzip and double-click **GUI_publish_v1_Feb2026_mac**.
 6. If macOS shows a security warning, go to System Preferences > Security & Privacy, and allow the app to run by clicking **Open anyway**
